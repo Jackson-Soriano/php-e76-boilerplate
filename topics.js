@@ -1,4 +1,4 @@
-// 1.includes
+// 1.Modularization
 // 2.require_once
 // 3.headers
 // 4.session_destroy, unset
